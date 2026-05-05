@@ -8,7 +8,7 @@
       "url": "https://github.com/Seanreck"
     } 
   ],
-  "url": https://github.com/Seanreck,
+  "url": "This is auto replaced",
   "flags": {},
   "version": "This is auto replaced",
   "compatibility": {
@@ -113,8 +113,8 @@
     }
   },
   "socket": false,
-  "manifest": https://github.com/Seanreck,
-  "download": https://github.com/Seanreck,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
   "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-pf2e#readme",
   "protected": false,
   "coreTranslation": false,
